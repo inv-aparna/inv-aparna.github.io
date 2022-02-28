@@ -1,8 +1,7 @@
 {
   "name": "myreactdemo",
   "version": "0.1.0",
-  "homepage":"https://inv-aparna.github.io/"
-  "private": true,
+  "homepage":"https://inv-aparna.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
